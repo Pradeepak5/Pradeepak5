@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepak5&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepak5" /> </p>
 
-- 🔭 I’m currently working on **GoDaddy project**
-
-- 🌱 I’m currently learning **MERN Stack**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Pradeepak5](https://github.com/Pradeepak5)
 
 - 📝 I regularly write articles on [https://medium.com/@pradeepak571](https://medium.com/@pradeepak571)
