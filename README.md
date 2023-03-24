@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@pradeepak571](https://medium.com/@pradeepak571)
 
-- 💬 Ask me about **java, python, robot-framework**
+- 💬 Ask me about **java, python, JavaScript, MERN-Stack, robot-framework**
 
 - 📫 How to reach me **pradeepak571@gmail.com**
 
