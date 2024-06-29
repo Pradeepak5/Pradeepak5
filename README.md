@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@pradeepak571](https://medium.com/@pradeepak571)
 
-- 💬 Ask me about **java, python, JavaScript, MERN-Stack, robot-framework**
+- 💬 Ask me about **MERN-Stack, Microservice Architecture, Message Queues, Blob Storage, Key-Vault, Logs Monitoring, Redis, Docker, Kubernetees, CI/CD, Technical Documentation, Product Documentation, Robot-Framework**
 
 - 📫 How to reach me **pradeepak571@gmail.com**
 
